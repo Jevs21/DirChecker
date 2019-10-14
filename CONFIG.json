@@ -1,0 +1,26 @@
+{
+    "dir-root" : {
+        "dir-src" : {},
+        "dir-bin" : {},
+        "dir-include" : {
+            "file-test.txt" : {}
+        },
+        "file-makefile" : {}
+    }
+}
+{
+    "root": {
+        "type" : "dir",
+        "content" : {
+            "src" : {
+                "type" : "dir",
+                "content" : {
+
+                }
+            },
+            "include" : {
+                ''
+            }
+        }
+    }
+}
